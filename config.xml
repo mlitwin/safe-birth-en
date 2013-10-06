@@ -6,15 +6,15 @@
     -->
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.hesperian.Safe-Pregnancy-and-Birth-es"
+        id        = "org.hesperian.Safe-Pregnancy-and-Birth"
         versionCode = "2"
         version   = "1.0.4">
 
     <!-- Essential Properties -->
-    <name>Parto seguro</name>
+    <name>Safe Birth</name>
 
     <description>
-        El embarazo y el parto seguros. 
+        Safe Pregnancy and Birth. 
     </description>
 
     <author href="https://hesperian.org" email="support@hesperian.org">
